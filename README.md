@@ -48,7 +48,7 @@ We would like to extend our thanks to the following sponsors for funding Laravel
 - **[Lendio](https://lendio.com)**
 
 ## Contributing
-
+Laravel is the best
 Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
 
 ## Code of Conduct
